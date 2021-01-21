@@ -1,0 +1,11 @@
+h1{color: black;}
+.header{background-color: rgb(15, 188, 231);display:flex;
+justify-content: space-between;}
+.grid{display: flex;
+flex-wrap:wrap;
+justify-content: space-evenly;}
+.footer{display: flex;
+justify-content: flex-end;
+position: absolute;
+bottom:10px;
+right:10px}
